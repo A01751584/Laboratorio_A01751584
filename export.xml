@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Role of Blood Biomarkers in Differentiating Ischemic Stroke and Intracerebral Hemorrhage</b:Title>
+    <b:Year>2020</b:Year>
+    <b:Month>7</b:Month>
+    <b:StandardNumber>1998-4022</b:StandardNumber>
+    <b:Publisher>Neurol India</b:Publisher>
+    <b:Pages>824-829</b:Pages>
+    <b:JournalName>Neurology India</b:JournalName>
+    <b:Volume>68</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Rohit</b:First>
+            <b:Last>Bhatia</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Anand</b:First>
+            <b:Last>Warrier</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Vishnubhatla</b:First>
+            <b:Last>Sreenivas</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Prerna</b:First>
+            <b:Last>Bali</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Pranjal</b:First>
+            <b:Last>Sisodia</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Anchal</b:First>
+            <b:Last>Gupta</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nishita</b:First>
+            <b:Last>Singh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>M.</b:First>
+            <b:Last>Padma Srivastava</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kameshwar</b:First>
+            <b:Last>Prasad</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;pubmed.ncbi.nlm.nih.gov&#x2F;32859821&#x2F;</b:URL>
+    <b:URL>https:&#x2F;&#x2F;pubmed.ncbi.nlm.nih.gov&#x2F;32859821&#x2F;?dopt&#x3D;Abstract</b:URL>
+    <b:Tag>role-of-blood-biomarkers-in-differentiating-ischemic-stroke-and-intracerebral-hemorrhage</b:Tag>
+  </b:Source>
+</b:Sources>
